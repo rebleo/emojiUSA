@@ -1,4 +1,4 @@
-# emojiUSA
+# [emojiUSA](http://www.twitter.com/emojiUSA)
 ![](flag1.png)
-[a patriot bot](http://www.twitter.com/emojiUSA)
+a patriot bot
 
